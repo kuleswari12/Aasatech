@@ -15,14 +15,23 @@ const App = () => (
   <div>
     <Navbar />
     <HeroSection />
-    <PricingSection />
-    <ExpertHelp />
-    <FAQSection />
+    <EmailSubscription/>
+    
+
+    
     <GetInTouch/>
     <ContactUs />
     <Section/>
+    
+
+    
+    <PricingSection />
+    <ExpertHelp />
+    <FAQSection />
     <EmailSubscription/>
-    <Footer/>
+    
+   <Footer/>
+   
    
   </div>
 );
